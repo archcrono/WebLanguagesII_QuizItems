@@ -1,0 +1,21 @@
+Jared Cooley
+All three questions are to be used with 'event object.png'
+
+The Bubbles property is:
+A.	True or False based on if it bubbles up to the parents or not
+B.	It is the current DOM element that we are looking at
+C.	Is a Boolean value telling us if bubbles was called
+D.	Probably something that will get burninated
+
+The EventPhase property is:
+A.	1, 2, or 3
+B.	Either capture or target
+C.	As useful as Homsar
+D.	Allows us to prevent any kind of default behavior
+
+StopImmediatePropagation()
+A.	Will stop all event capture and bubbling
+B.	Will stop all event capture and bubbling and make sure that no more handler get called
+C.	It will stop the event from bubbling up from its original target.
+D.	This Is what The Cheat uses to stop viruses.
+
